@@ -1,5 +1,5 @@
 # Meep-TiberCAD-examples
-example 1
+example 7
 
 🧪 Gain-assisted Waveguide Simulation with Meep + TiberCAD
 
